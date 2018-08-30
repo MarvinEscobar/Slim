@@ -1,0 +1,37 @@
+[08-May-2018 18:28:19 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/toolbox/public_html/dev/diimo/diimo-api/vendor/illuminate/support/helpers.php on line 554
+[08-May-2018 18:28:28 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/toolbox/public_html/dev/diimo/diimo-api/vendor/illuminate/support/helpers.php on line 554
+[08-May-2018 18:28:54 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/toolbox/public_html/dev/diimo/diimo-api/vendor/illuminate/support/helpers.php on line 554
+[08-May-2018 18:30:20 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/toolbox/public_html/dev/diimo/diimo-api/vendor/illuminate/support/helpers.php on line 554
+[08-May-2018 19:40:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 365
+[08-May-2018 19:42:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 365
+[09-May-2018 06:03:34 UTC] PHP Parse error:  syntax error, unexpected 'orderBy' (T_STRING) in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/answers.php on line 290
+[12-May-2018 00:02:07 UTC] PHP Warning:  Missing argument 1 for Slim\Http\Request::getParam(), called in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 25 and defined in /home/toolbox/public_html/dev/diimo/diimo-api/vendor/slim/slim/Slim/Http/Request.php on line 1141
+[12-May-2018 00:03:29 UTC] PHP Warning:  Illegal string offset 'phone' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 49
+[12-May-2018 00:03:29 UTC] PHP Warning:  Illegal string offset 'phone' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 49
+[12-May-2018 00:03:29 UTC] PHP Warning:  Illegal string offset 'phone' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 67
+[12-May-2018 00:03:29 UTC] PHP Warning:  Illegal string offset 'phone' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 101
+[12-May-2018 00:04:12 UTC] PHP Warning:  Illegal string offset 'phone' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 49
+[12-May-2018 00:04:12 UTC] PHP Warning:  Illegal string offset 'phone' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 49
+[12-May-2018 00:04:12 UTC] PHP Warning:  Illegal string offset 'phone' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 49
+[12-May-2018 00:04:12 UTC] PHP Warning:  Illegal string offset 'phone' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 75
+[12-May-2018 00:04:12 UTC] PHP Warning:  Illegal string offset 'phone' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 101
+[12-May-2018 00:27:13 UTC] PHP Warning:  Creating default object from empty value in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 853
+[12-May-2018 00:27:56 UTC] PHP Warning:  Creating default object from empty value in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 853
+[12-May-2018 00:28:18 UTC] PHP Warning:  Creating default object from empty value in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 853
+[12-May-2018 02:39:15 UTC] PHP Catchable fatal error:  Object of class Illuminate\Database\Eloquent\Builder could not be converted to string in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 202
+[12-May-2018 02:39:25 UTC] PHP Catchable fatal error:  Object of class Illuminate\Database\Eloquent\Builder could not be converted to string in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 202
+[12-May-2018 03:04:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 197
+[12-May-2018 03:04:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 194
+[12-May-2018 03:05:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 197
+[12-May-2018 03:05:55 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ')' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 198
+[12-May-2018 03:06:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 196
+[12-May-2018 03:06:36 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 196
+[12-May-2018 03:07:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 195
+[12-May-2018 03:08:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 194
+[12-May-2018 03:08:23 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 194
+[12-May-2018 03:14:27 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, object given in /home/toolbox/public_html/dev/diimo/diimo-api/vendor/illuminate/database/Grammar.php on line 58
+[12-May-2018 03:14:27 UTC] PHP Warning:  explode() expects parameter 2 to be string, object given in /home/toolbox/public_html/dev/diimo/diimo-api/vendor/illuminate/database/Grammar.php on line 62
+[12-May-2018 03:20:48 UTC] PHP Warning:  The use statement with non-compound name 'DB' has no effect in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 5
+[12-May-2018 03:20:56 UTC] PHP Warning:  The use statement with non-compound name 'DB' has no effect in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 5
+[12-May-2018 03:29:54 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/credits.php on line 208
+[12-May-2018 04:16:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/toolbox/public_html/dev/diimo/diimo-api/src/routes/accounts.php on line 928

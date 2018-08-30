@@ -1,0 +1,1 @@
+select id_accounts, first_name, last_name, phone, DATEDIFF(curdate(), date) as dias, status from accounts;
